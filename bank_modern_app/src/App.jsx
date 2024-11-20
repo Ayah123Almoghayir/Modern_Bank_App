@@ -16,6 +16,7 @@ const App = () => (
         <Testimonials />
         <Clients />
         <CTA />
+        <Hero/>
         <Footer />
       </div>
     </div>
